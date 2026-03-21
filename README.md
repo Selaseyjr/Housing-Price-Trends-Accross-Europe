@@ -229,6 +229,6 @@ This project highlights the steady increase in housing prices across Europe and 
 ---
 
 ## Authors
-Diego Fornero
-Selasey Junior Gbeddy
+* Diego Fornero
+* Selasey Junior Gbeddy
 
